@@ -1,7 +1,7 @@
 # Project info
 
 ## Purpose
-To create automated test to test searchl functionality of an wikipedia website
+To create automated test to test search functionality of an wikipedia website
 
 # Technology Stack
 
